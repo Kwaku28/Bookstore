@@ -65,7 +65,7 @@ This is a react app for categorizing books.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Math Magician](https://calculator-b0zu.onrender.com)
+- [Not Available](https://...)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
