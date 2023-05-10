@@ -52,12 +52,11 @@ This is a react app for categorizing books.
 - **[create react app]**
 - **[set up linters]**
 - **[Components]**
+- **[Connect React and Redux]**
+- **[Add reducers and actions]**
+- **[useSelector and useDispatch]**
 
-<!-- - **[Components]**
-- **[Events]**
-- **[Refactor with hooks]**
-- **[Route with React Route]**
-- **[Styling]** -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,10 +143,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Styling]**
+- [ ] **[Connect API]**
 - [ ] **[Full website]**
-- [ ] **[Events]**
-- [ ] **[Refactor with hooks]**
-- [ ] **[Route with React Route]**
+- [ ] **[Categories section]**
 
 <!-- CONTRIBUTING -->
 
