@@ -55,6 +55,7 @@ This is a react app for categorizing books.
 - **[Connect React and Redux]**
 - **[Add reducers and actions]**
 - **[useSelector and useDispatch]**
+- **[Connect API]**
 
 
 
@@ -143,7 +144,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Styling]**
-- [ ] **[Connect API]**
 - [ ] **[Full website]**
 - [ ] **[Categories section]**
 

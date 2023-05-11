@@ -6,7 +6,7 @@ import styles from '../Styles/Books.module.css';
 import Button from './Buttons';
 
 function Books({
-  category, title, id, author, progress, status, chapter, onClick,
+  category, title, id, onClick, author, progress, status, chapter,
 }) {
   return (
     <div className={styles.container}>
@@ -44,9 +44,7 @@ function Books({
 Books.defaultProps = {
   category: '',
   id: '',
-  title: '',
-  author: '',
-  progress: '',
+  progress: '75',
   status: '',
   chapter: '',
   onClick: '',
@@ -55,8 +53,8 @@ Books.defaultProps = {
 Books.propTypes = {
   category: PropTypes.string,
   id: PropTypes.string,
-  title: PropTypes.string,
-  author: PropTypes.string,
+  title: PropTypes.string.isRequired,
+  author: PropTypes.string.isRequired,
   progress: PropTypes.string,
   status: PropTypes.string,
   chapter: PropTypes.string,
