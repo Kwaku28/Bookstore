@@ -45,8 +45,8 @@ Books.defaultProps = {
   category: '',
   id: '',
   progress: '75',
-  status: '',
-  chapter: '',
+  status: 'completed',
+  chapter: 'Chapter 7',
   onClick: '',
 };
 
