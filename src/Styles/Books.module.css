@@ -16,7 +16,7 @@
   display: flex;
   flex-direction: column;
   height: 100px;
-  margin-right: 19rem;
+  margin-right: 10rem;
 }
 
 .genre {
@@ -98,14 +98,12 @@
 .current {
   display: flex;
   flex-direction: column;
-  margin-right: auto;
-  width: 100%;
-  margin-left: 20px;
+  padding-right: 50px;
 }
 
 .currentchapter {
   margin: 0.063rem 0 0 0;
-  opacity: 0.8;
+  opacity: 0.5;
   font-family: 'Roboto Slab', serif;
   font-size: 0.813rem;
   font-weight: 300;
